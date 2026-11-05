@@ -4,6 +4,8 @@ An interactive, self-contained star atlas with all 88 IAU constellations and 5,0
 
 ## Open the app
 
+[Open Ether’s Celestial Atlas in your browser](https://tonyparker1964.github.io/Ether-Celestial-Atlas/).
+
 Download `index.html` and open it in a modern browser. The app embeds its star catalogue, line patterns, names, styling, and scripts; no installation or server is required.
 
 ## Explore
